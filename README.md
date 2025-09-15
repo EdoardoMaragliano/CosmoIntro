@@ -1,6 +1,10 @@
 
 # CosmicStructures
 
+
+<img src="DALL·E_LSS.webp" alt="Large Scale Structure Visualization" width="600" />
+
+
 Computational Notebooks for the Physics of Cosmic Structures
 
 This repository contains all the Jupyter notebooks and resources for the course "Physics of Cosmic Structures" held at the University of Genova (Italy) by Prof. Marco Raveri.
