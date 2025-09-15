@@ -2,7 +2,7 @@
 # CosmicStructures
 
 
-<img src="DALL·E_LSS.webp" alt="Large Scale Structure Visualization" width="800" />
+<img src="DALL·E_LSS.webp" alt="Large Scale Structure Visualization" width="1080" />
 
 
 Computational Notebooks for the Physics of Cosmic Structures
